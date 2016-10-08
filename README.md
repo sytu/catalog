@@ -1,4 +1,4 @@
-content index of some study material
+content index of study material
 -------------------------------------
 1. Javascript
 2. Algorithm
