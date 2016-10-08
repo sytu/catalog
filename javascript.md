@@ -21,7 +21,7 @@ Javascript知识索引
 - [别踩白块游戏](https://www.shiyanlou.com/courses/306)
 - [打地鼠游戏](https://www.shiyanlou.com/courses/48)
 
-### 编译
+#### 编译
 1. 小黄 1.1 1.N.4
 
 #### 历史背景
