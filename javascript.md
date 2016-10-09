@@ -8,6 +8,7 @@ Javascript知识索引
 - 数算: 学习JS数据结构与算法
 - 陪读: [喜马拉雅沙翼陪你读书](http://www.ximalaya.com/30018073/album/3740790)
 - 深浅: [JavaScript深入浅出](http://www.imooc.com/learn/277)
+- [JS重疑难点解析](http://study.163.com/course/courseLearn.htm?courseId=1054012#/learn/live?lessonId=1493146&courseId=1054012)
 - [JS语言精髓](http://youbookee.com/2016/08/26/JavaScript-language-essence-booknote/)
 - [怎么学JavaScript？](http://www.w3cfuns.com/notes/17398/d3f6dd40e2d3ff15b209810dfa98be0b.html)
 - [JS闯关记](https://github.com/stone0090/javascript-lessons)
